@@ -163,7 +163,7 @@ public class ProjectOptions2016 {
         System.out.println();
         System.out.print("CNDF2: "+DistFunctions.CNDF2(Math.PI));
         System.out.println();
-        System.out.print("Branch Abril: ");
+        System.out.print("Branch Abril 2: ");
         System.out.println();
     }
      
